@@ -72,7 +72,3 @@ Open **`http://localhost:5000`** in your browser.
 | **Author (John Doe)** | `john@example.com` | `password123` |
 | **Author (Jane Smith)** | `jane@example.com` | `password123` |
 
----
-
-## 📄 License
-This project is open-source and available under the [MIT License](LICENSE).
